@@ -2,7 +2,8 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": ".",
-    "sourceMap": false
+    "sourceMap": false,
+    "declaration": true
   },
   "exclude": []
 }

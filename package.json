@@ -38,6 +38,7 @@
   "license": "MIT",
   "dependencies": {
     "@yomguithereal/helpers": "^1.0.0",
+    "declaration-bundler-webpack-plugin": "^1.0.3",
     "events": "^3.0.0",
     "graphology-metrics": "1.13.0",
     "graphology-utils": "^1.4.0"

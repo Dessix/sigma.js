@@ -8,7 +8,8 @@
     "esModuleInterop": true,
     "downlevelIteration": true,
     "typeRoots": ["./node_modules/@types/", "./types/"],
-    "lib": ["dom"]
+    "lib": ["dom"],
+    "declaration": true
   },
   "include": ["./types/**/*", "./src/**/*"]
 }
